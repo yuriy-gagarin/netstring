@@ -4,8 +4,9 @@ import (
 	"bufio"
 	"bytes"
 	"io"
-	"netstring"
 	"testing"
+
+	"github.com/yuriy-gagarin/netstring"
 )
 
 type bb [][]byte
