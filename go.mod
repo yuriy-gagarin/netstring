@@ -1,3 +1,3 @@
-module github.com/yuriy-gagarin/netstring
+module github.com/yuriygagarin/netstring
 
 go 1.13
